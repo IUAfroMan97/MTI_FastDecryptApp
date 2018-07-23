@@ -1,5 +1,5 @@
 <h1>FastDecryptApp for MTI</h1>
-<p> Here is the C# project files for FastDecryptApp1.8.7.exe </p>
+<p> Notes: <br> FastDecryptApp1.8.7 is the most stable release. 2.0.0 works great for the -a flag.<br>Always use 1.8.7 for any root directories (i.e. FastDecryptApp1.8.7 -d keypath c:\)<br>You can use 2.0.0 for network shares if the user has access to the share. </p>
 <hl>
 <h3>Flags for FastDecryptApp1.8.7.exe</h3>
 <ul>
