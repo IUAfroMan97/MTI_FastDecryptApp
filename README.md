@@ -19,7 +19,7 @@
 <p>
     <code>FastDecryptApp.exe -d c:\path\to\key.keyxml c:\ </code> <br>
     <code>FastDecryptApp.exe -a d:\ </code> <br>
-    <code>FastDecryptApp.exe -e c:\path\to\key.keyxml y:\ </code> <br>
+    <code>FastDecryptApp.exe -e c:\path\to\key.keyxml y:\ ... then ... FastDecryptApp.exe -d c:\path\to\key.keyxml y:\ </code><br>
     <code>FastDecryptApp.exe -c c:\ </code> <br>
     <code>FastDecryptApp.exe -k c:\users\user\desktop\one.txt </code>
 </p>
