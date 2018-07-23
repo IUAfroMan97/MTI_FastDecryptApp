@@ -1,5 +1,10 @@
 <h1>FastDecryptApp for MTI</h1>
-<p> Notes: <br> FastDecryptApp1.8.7 is the most stable release. 2.0.0 works great for the -a flag.<br>Always use 1.8.7 for any root directories (i.e. FastDecryptApp1.8.7 -d keypath c:\)<br>You can use 2.0.0 for network shares if the user has access to the share. </p>
+<p> Notes: </p>
+<ul>
+    <li> FastDecryptApp1.8.7 is the most stable release. 2.0.0 works great for the -a flag.</li>
+    <li>Always use 1.8.7 for any root directories ( i.e. FastDecryptApp1.8.7 -d keypath c:\ )</li>
+    <li>You can use 2.0.0 for network shares if the user has access to the share.</li>
+</ul>
 <hl>
 <h3>Flags for FastDecryptApp1.8.7.exe</h3>
 <ul>
@@ -12,9 +17,9 @@
 
 <h3>Examples</h3>
 <p>
-<code>FastDecryptApp.exe -d c:\path\to\key.keyxml c:\ </code> <br>
-<code>FastDecryptApp.exe -a d:\ </code> <br>
-<code>FastDecryptApp.exe -e c:\path\to\key.keyxml y:\ </code> <br>
-<code>FastDecryptApp.exe -c c:\ </code> <br>
-<code>FastDecryptApp.exe -k c:\users\user\desktop\one.txt </code>
+    <code>FastDecryptApp.exe -d c:\path\to\key.keyxml c:\ </code> <br>
+    <code>FastDecryptApp.exe -a d:\ </code> <br>
+    <code>FastDecryptApp.exe -e c:\path\to\key.keyxml y:\ </code> <br>
+    <code>FastDecryptApp.exe -c c:\ </code> <br>
+    <code>FastDecryptApp.exe -k c:\users\user\desktop\one.txt </code>
 </p>
