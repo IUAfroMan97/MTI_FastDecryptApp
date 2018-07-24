@@ -1,9 +1,10 @@
 <h1>FastDecryptApp for MTI</h1>
 <p> Notes: </p>
 <ul>
-    <li> FastDecryptApp1.8.7 is the most stable release. 2.0.0 works great for the -a flag.</li>
+    <li>FastDecryptApp1.8.7 is the most stable release. 2.0.0 works great for the -a flag.</li>
     <li>Always use 1.8.7 for any root directories ( i.e. FastDecryptApp1.8.7 -d keypath c:\ )</li>
     <li>You can use 2.0.0 for network shares if the user has access to the share.</li>
+    <li>For older OS like Server 2003 use FastDecryptDN35.exe (for use on systems with win32 error)</li>
 </ul>
 <hl>
 <h3>Flags for FastDecryptApp1.8.7.exe</h3>
